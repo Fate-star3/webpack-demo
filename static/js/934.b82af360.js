@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkwebpack_demo=self.webpackChunkwebpack_demo||[]).push([[934],{9934:function(e,n,u){u.r(n);var c=u(7294);n.default=function(){return c.createElement("h3",null,"我是懒加载组件组件")}}}]);
